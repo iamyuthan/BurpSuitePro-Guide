@@ -24,7 +24,7 @@ So, the result we achieve through the proxy tool Burp Suite will be as shown bel
 **In this guide, we shall go through the different aspects of the tool and how to use them.**
 
 # Burp Suite: Dashboard
-## Introduction
+## Dashboard Introduction
 
 ![image](https://user-images.githubusercontent.com/83505381/169546419-6ccfe76c-f256-4d8d-afa0-992c0fd2af6f.png)
 
